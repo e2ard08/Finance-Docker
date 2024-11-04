@@ -34,8 +34,8 @@ Users can filter results by stock price and dividend percentage.
 
 Access the Application: Open your browser and navigate to http://localhost:5000 to see the application in action.
 
-#Code Structure
+## Code Structure
 The main file of the application is app.py
 
-#Contributions
+## Contributions
 If you want to contribute to this project, feel free to submit a pull request or open an issue on GitHub.
