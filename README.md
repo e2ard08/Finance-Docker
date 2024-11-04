@@ -29,7 +29,8 @@ Users can filter results by stock price and dividend percentage.
 
 2. **Run the Application: Once the image is built, run the following command to start the application:**
 
-docker run -p 5000:5000 finance-app
+   ```bash
+   docker run -p 5000:5000 finance-app
 
 Access the Application: Open your browser and navigate to http://localhost:5000 to see the application in action.
 
